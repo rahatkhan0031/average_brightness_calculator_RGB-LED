@@ -6,7 +6,7 @@ This project reads brightness values from a light sensor, calculates the average
 
 ## 🛠 Components
 - Arduino Uno (or compatible board)
-- Light sensor (e.g., photoresistor or photodiode)
+- RGB Light sensor (e.g., photoresistor or photodiode)
 - Resistors (for voltage divider if using LDR)
 - Jumper wires
 - Breadboard
