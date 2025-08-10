@@ -1,4 +1,4 @@
-# 💡 Average Brightness Calculator with Arduino
+# 💡 Average Brightness Calculation with Arduino
 
 This project reads brightness values from a light sensor, calculates the average over time, and outputs the result via the Serial Monitor.
 
